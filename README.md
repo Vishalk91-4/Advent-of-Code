@@ -23,26 +23,14 @@ This year, 2023, I will crack the [Advent of Code](https://adventofcode.com/) in
         <td>1</td>
         <td><a href="https://adventofcode.com/2023/day/1">Trebuchet?!</a></td>
         <td>
-            <a href="./rust/src/day1.rs">🦀</a>
-            <a href="./golang/day1.go">🇬</a>
-            <a href="./ocaml/bin/d1p1.ml">🐪</a>
-        </td>
-        <td>
-            <a href="./rust/src/day1.rs">🦀</a>
-            <a href="./golang/day1.go">🇬</a>
-            <a href="./ocaml/bin/d1p2.ml">🐪</a>
+            <a href="./golang/day1/day1.go">🇬</a>
         </td>
     </tr>
     <tr>
         <td>2</td>
         <td><a href="https://adventofcode.com/2023/day/2">Cube Conundrum</a></td>
         <td>
-            <a href="./rust/src/day2.rs">🦀</a>
-            <a href="./golang/day2/part1.go">🇬</a>
-        </td>
-        <td>
-            <a href="./rust/src/day2.rs">🦀</a>
-            <a href="./golang/day2/part2.go">🇬</a>
+            <a href="./python/day2/day2.go">🐍</a>
         </td>
     </tr>
 
