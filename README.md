@@ -25,10 +25,16 @@ This year, 2023, I will crack the [Advent of Code](https://adventofcode.com/) in
         <td>
             <a href="./golang/day1/day1.go">🇬</a>
         </td>
+        <td>
+            <a href="./golang/day1/day1.go">🇬</a>
+        </td>
     </tr>
     <tr>
         <td>2</td>
         <td><a href="https://adventofcode.com/2023/day/2">Cube Conundrum</a></td>
+        <td>
+            <a href="./python/day2/day2.go">🐍</a>
+        </td>
         <td>
             <a href="./python/day2/day2.go">🐍</a>
         </td>
