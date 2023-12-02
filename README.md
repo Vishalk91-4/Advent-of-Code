@@ -8,7 +8,7 @@ Happy holidays!
 
 # Advent of Code '23 
 
-This year, 2023, I will crack the [Advent of Code](https://adventofcode.com/) in Python 🐍, Vue, Golang,🦀 Rust, 🐫 Ocaml.
+This year, 2023, I will crack the [Advent of Code](https://adventofcode.com/) in Python🐍, Vue, Golang, Rust🦀, OCaml🐫 .
 
 ## Progress
 
